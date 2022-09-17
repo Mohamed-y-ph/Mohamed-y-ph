@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Mohamed-y-ph
+- 👋 Hi, I’m Mohamed Ali, an academic and a researcher.
 - 👀 I’m interested in analysing biological data using bioinformatics and available computational tools in bioemdcial research. 
 - 📫 How to reach me ... email: mohammad.yaser.mm@gmail.com
 
