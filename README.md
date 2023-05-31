@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Mohamed Ali, an academic and a researcher.
-- 👀 I’m interested in analysing biological data using bioinformatics and computational tools in bioemdcial research. 
+- 👀 I’m interested in analysing biological data using bioinformatics and machine learning tools for applications in bioemdcial research. 
 - 📫 How to reach me ... email: mohammad.yaser.mm@gmail.com
 
 <!---
